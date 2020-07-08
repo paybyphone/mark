@@ -5,7 +5,7 @@ pages.
 
 This is very usable if you store documentation to your orthodox software in git
 repository and don't want to do a handjob with updating Confluence page using
-fucking tinymce wysiwyg enterprise core editor.
+tinymce wysiwyg enterprise core editor.
 
 You can store a user credentials in the configuration file, which should be
 located in ~/.config/mark with following format:
